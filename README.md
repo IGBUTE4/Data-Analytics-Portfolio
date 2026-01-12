@@ -16,7 +16,7 @@ This portfolio contains hands-on projects covering **sales performance, profitab
 - Includes YoY growth, geographic performance, factory efficiency, and product demand
 - Built using Power BI with DAX measures and a custom date table
 
-🔗 https://github.com/IGBUTE4/us-candy-store-sales-profitability-dashboard
+🔗 https://github.com/IGBUTE4/Executive-Sales-Performance-Profitability-Analysis
 
 ---
 
