@@ -51,6 +51,14 @@ This portfolio contains hands-on projects covering **sales performance, profitab
 
 ---
 
+### 🔹 Airline Customer Loyalty & Performance Dashboard
+- Created a dynamic Excel dashboard to analyze behavior, loyalty trends,churn & CLV to drive insights.
+- Used pivot tables, charts, and formulas for KPI metrics
+
+🔗 https://github.com/IGBUTE4/Airline-Customer-Loyalty-Performance-Dashboard
+
+
+
 ## 🛠 Skills & Tools
 - **Tools:** Excel, SQL Server, Power BI
 - **Analytics:** Data Cleaning, Data Modeling, KPI Design
