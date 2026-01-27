@@ -28,7 +28,16 @@ This portfolio contains hands-on projects covering **sales performance, profitab
 🔗 https://github.com/IGBUTE4/meta-smart-glasses-review-analysis
 
 ---
+### 🔹 Brazil Road Accident Analysis (2017–2023)
+- Helped identify high-risk regions and road conditions for targeted safety interventions
 
+- Highlighted areas where public awareness and enforcement can reduce accidents
+
+- Demonstrated how analytics can improve road safety strategy and resource allocation
+
+🔗 https://github.com/IGBUTE4/Brazil-Road-Accident-Analysis-2017-2023-
+
+---
 ## 🗄 SQL Projects
 
 ### 🔹 Bank Customer Retention & Churn Analysis
